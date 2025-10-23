@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "user_admin_0001",
+      "email": "admin@rakamin.com",
+      "password": "admin123",
+      "full_name": "Admin Rakamin",
+      "date_of_birth": "1990-01-15",
+      "role": "admin",
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "user_applicant_0001",
+      "email": "nadia.putri@example.com",
+      "password": "password123",
+      "full_name": "Nadia Putri",
+      "date_of_birth": "1995-05-20",
+      "role": "applicant",
+      "created_at": "2025-01-02T00:00:00Z",
+      "updated_at": "2025-01-02T00:00:00Z"
+    },
+    {
+      "id": "user_applicant_0002",
+      "email": "budi.santoso@example.com",
+      "password": "password123",
+      "full_name": "Budi Santoso",
+      "date_of_birth": "1993-08-12",
+      "role": "applicant",
+      "created_at": "2025-01-03T00:00:00Z",
+      "updated_at": "2025-01-03T00:00:00Z"
+    },
+    {
+      "id": "user_applicant_0003",
+      "email": "siti.rahma@example.com",
+      "password": "password123",
+      "full_name": "Siti Rahma",
+      "date_of_birth": "1996-03-25",
+      "role": "applicant",
+      "created_at": "2025-01-04T00:00:00Z",
+      "updated_at": "2025-01-04T00:00:00Z"
+    },
+    {
+      "id": "user_applicant_0004",
+      "email": "ahmad.rizki@example.com",
+      "password": "password123",
+      "full_name": "Ahmad Rizki",
+      "date_of_birth": "1994-11-08",
+      "role": "applicant",
+      "created_at": "2025-01-05T00:00:00Z",
+      "updated_at": "2025-01-05T00:00:00Z"
+    }
+  ]
+}

@@ -1,3 +1,1 @@
-export default function Home() {
-  return <div>test</div>;
-}
+export { HomePage as default } from '../features/home/home.page';

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": "cand_20251008_0001",
+      "attributes": [
+        {
+          "key": "full_name",
+          "label": "Full Name",
+          "value": "Nadia Putri",
+          "order": 1
+        },
+        {
+          "key": "email",
+          "label": "Email",
+          "value": "nadia.putri@example.com",
+          "order": 2
+        },
+        {
+          "key": "phone",
+          "label": "Phone",
+          "value": "+62 812-1234-5678",
+          "order": 3
+        },
+        {
+          "key": "domicile",
+          "label": "Domicile",
+          "value": "Jakarta",
+          "order": 4
+        },
+        {
+          "key": "gender",
+          "label": "Gender",
+          "value": "Female",
+          "order": 5
+        },
+        {
+          "key": "linkedin_link",
+          "label": "LinkedIn",
+          "value": "https://linkedin.com/in/nadiaputri",
+          "order": 6
+        }
+      ],
+      "job_id": "job_20251001_0001",
+      "status": "new",
+      "created_at": "2025-10-08T10:30:00Z",
+      "updated_at": "2025-10-08T10:30:00Z"
+    },
+    {
+      "id": "cand_20251009_0002",
+      "attributes": [
+        {
+          "key": "full_name",
+          "label": "Full Name",
+          "value": "Budi Santoso",
+          "order": 1
+        },
+        {
+          "key": "email",
+          "label": "Email",
+          "value": "budi.santoso@example.com",
+          "order": 2
+        },
+        {
+          "key": "phone",
+          "label": "Phone",
+          "value": "+62 813-9876-5432",
+          "order": 3
+        },
+        {
+          "key": "domicile",
+          "label": "Domicile",
+          "value": "Bandung",
+          "order": 4
+        },
+        {
+          "key": "gender",
+          "label": "Gender",
+          "value": "Male",
+          "order": 5
+        },
+        {
+          "key": "linkedin_link",
+          "label": "LinkedIn",
+          "value": "https://linkedin.com/in/budisantoso",
+          "order": 6
+        }
+      ],
+      "job_id": "job_20251001_0001",
+      "status": "in_review",
+      "created_at": "2025-10-09T14:15:00Z",
+      "updated_at": "2025-10-10T09:20:00Z"
+    },
+    {
+      "id": "cand_20251010_0003",
+      "attributes": [
+        {
+          "key": "full_name",
+          "label": "Full Name",
+          "value": "Siti Rahma",
+          "order": 1
+        },
+        {
+          "key": "email",
+          "label": "Email",
+          "value": "siti.rahma@example.com",
+          "order": 2
+        },
+        {
+          "key": "phone",
+          "label": "Phone",
+          "value": "+62 814-5555-6666",
+          "order": 3
+        },
+        {
+          "key": "domicile",
+          "label": "Domicile",
+          "value": "Surabaya",
+          "order": 4
+        },
+        {
+          "key": "gender",
+          "label": "Gender",
+          "value": "Female",
+          "order": 5
+        },
+        {
+          "key": "linkedin_link",
+          "label": "LinkedIn",
+          "value": "https://linkedin.com/in/sitirahma",
+          "order": 6
+        }
+      ],
+      "job_id": "job_20251002_0002",
+      "status": "interview",
+      "created_at": "2025-10-10T11:00:00Z",
+      "updated_at": "2025-10-12T16:45:00Z"
+    }
+  ]
+}

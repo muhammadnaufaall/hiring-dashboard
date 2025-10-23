@@ -1,5 +1,5 @@
 import React from 'react';
-import { Toaster } from './ui/sonner';
+import { Toaster } from '../components/ui/sonner';
 
 function Providers({ children }: { children: React.ReactNode }) {
   return (
